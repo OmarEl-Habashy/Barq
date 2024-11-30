@@ -39,16 +39,18 @@ public class Driver {
     }
 
     //business Logic
-    public void AssignToRoute(){
+    // public void AssignToRoute(){
+    //     //Admin assigns driver to a route
 
-    }
-    public boolean CheckAvailability(){
-        if (){
-            return true;
-        }
-        else{
-            return false;}
-    }
+    // }
+    // public boolean CheckAvailability(){
+    //     //Admin checks if driver is available
+    //     if (){ 
+    //         return true;
+    //     }
+    //     else{
+    //         return false;}
+    // }
     
 
 	@Override

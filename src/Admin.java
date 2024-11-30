@@ -1,4 +1,6 @@
 
+//OMar tried to change the name of the class to Admin
+
 public class Admin {
     private int Admin_ID; // Primary key
     private String name;
@@ -6,6 +8,9 @@ public class Admin {
     private String role;
     private String contact_info;
     private static int count=0;
+
+    
+
 
 
     public Admin(){ // Default
