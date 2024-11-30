@@ -1,3 +1,4 @@
+package model;
 
 public class Customer {
 	private int customer_ID; // Primary key
@@ -29,13 +30,13 @@ public class Customer {
 		this.customer_ID = customer_ID;
 	}
 
-	public String getPassword() {
-		return password;
-	}
+	// public String getPassword() {
+	// 	return password;
+	// }
 
-	public void setPassword(String password) {
-		this.password = password;
-	}
+	// public void setPassword(String password) {
+	// 	this.password = password;
+	// }
 
 	public String getContact_info() {
 		return contact_info;
@@ -59,7 +60,7 @@ public class Customer {
 
 	@Override
 	public String toString() {
-		return "Customer [customer_ID=" + customer_ID + ", password=" + password + ", contact_info=" + contact_info
+		return "Customer [customer_ID=" + customer_ID + ", contact_info=" + contact_info
 				+ ", wallet=" + wallet + ", count=" + count + "]";
 	}
 	

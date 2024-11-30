@@ -1,4 +1,4 @@
-
+package model;
 public class Driver {
 	private int Driver_ID; // Primary key
 	private String name;

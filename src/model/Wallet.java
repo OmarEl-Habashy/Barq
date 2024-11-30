@@ -1,4 +1,4 @@
-
+package model;
 public class Wallet {
 	private int wallet_ID; //Primary key
 	private Customer customer;

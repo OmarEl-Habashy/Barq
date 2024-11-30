@@ -1,4 +1,4 @@
-
+package model;
 public class Route {
 	private int Route_ID; // Primary key
 	private String Name;

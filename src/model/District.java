@@ -1,4 +1,4 @@
-
+package model;
 public class District {
 	private int district_ID; //Primary key
 	private String name;

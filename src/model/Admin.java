@@ -1,3 +1,4 @@
+package model;
 
 //OMar tried to change the name of the class to Admin
 

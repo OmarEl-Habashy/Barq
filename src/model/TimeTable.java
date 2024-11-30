@@ -1,3 +1,4 @@
+package model;
 public class TimeTable {
     private int Timetable_ID;
     private Route route;

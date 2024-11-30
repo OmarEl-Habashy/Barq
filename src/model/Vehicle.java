@@ -1,4 +1,4 @@
-
+package model;
 public class Vehicle {
     private int vechile_ID; // Primary key
     private String type;
